@@ -1,10 +1,10 @@
 ## How to convert between binary and decimal numbers
 
-##By Dylan Reeves
+## By Dylan Reeves
 
-###The purpose of this tutorial is explain how to convert between a binary number and a decimal number for those that are needing to know how binary numbers work and how they are related.
+### The purpose of this tutorial is explain how to convert between a binary number and a decimal number for those that are needing to know how binary numbers work and how they are related.
 
-###What are binary numbers?
+### What are binary numbers?
 * Numbers that use a base of two
 * Consist of only 1s and 0s
 * In most cases, represent a bit, in which the highest number is 256, or 8 individual numbers.

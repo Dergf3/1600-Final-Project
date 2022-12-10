@@ -1,5 +1,7 @@
 ## How to convert between binary and decimal numbers
+
 ##By Dylan Reeves
+
 ###The purpose of this tutorial is explain how to convert between a binary number and a decimal number for those that are needing to know how binary numbers work and how they are related.
 
 ###What are binary numbers?
